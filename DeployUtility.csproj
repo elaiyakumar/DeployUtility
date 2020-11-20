@@ -32,7 +32,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>ico2star_2.ico</ApplicationIcon>
+    <ApplicationIcon>
+    </ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -93,13 +94,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="ico2star_2.ico" />
-    <None Include="Ico_Open.ico" />
-    <None Include="Folder-Open-icon.png" />
-    <Content Include="favicon %281%29.ico" />
     <Content Include="favicon.ico" />
-    <Content Include="ico101.ico" />
-    <Content Include="ico202.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
